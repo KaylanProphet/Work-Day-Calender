@@ -33,7 +33,9 @@ THEN the saved events persist
 
 ## Review
 
-<a href="">
+**<a href="https://kaylanprophet.github.io/Work-Day-Calender/">Try the Work Day Calendar here!</a>**
+
+<img src="./assets/images/screenshot.png">
 
 <a href="https://github.com/KaylanProphet/Work-Day-Calender">View repository here</a>
 
